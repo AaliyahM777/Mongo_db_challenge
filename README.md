@@ -31,6 +31,9 @@ a user entering a username, a descriptions of what exercise they have accomplish
  ## To stop Server 
   * Control + C on command line in terminal
 
+## Heroku Link
+[Open App in Heroku](https://mongodbchallenge1.herokuapp.com/)
+
 #### Challenge Instructions
 
 The challenge requirements for this week are as follows:
