@@ -2,15 +2,34 @@
 # LifeSports Challlenge and Hackathon
 
 ### About Us
+## A LifeSports Excercise Log React App
+Users can keep track of Life Sports participants exercise logs through 
+a user entering a username, a descriptions of what exercise they have accomplished, the duration in which they completed their exercise, and the date in which they have completed their excercise.
 
+### What Is Being Used?
+* React.js(Html, CSS or SCSS,JavaScript)
+* Mongo.js
 
 ### Build Components
+* Client(React Components)
+* Models(excercise and user mdoels )
+* Routes (Routes used in server to connect with React App)
 
 ### Usage
+## To Start React App
+ * `npm install`
+ * `npm start/ run start `
 
-```js
+ ## To Stop React App
+ * Control + C on command line in terminal
 
-```
+ ## To Run Server
+ * go to file thats contains server
+ * `node server or node (filename)`
+
+
+ ## To stop Server 
+  * Control + C on command line in terminal
 
 #### Challenge Instructions
 
